@@ -10,12 +10,12 @@
 
 // ============ ⚙ CONFIGURATION ============
 const config = {
-    host: '', // Replace with your Stalker-Portal host (e.g., 'example.com')
-    mac_address: '', // Replace with your MAC address
-    serial_number: '', // Replace with your serial number
-    device_id: '', // Replace with your device_id
-    device_id_2: '', // Replace with your device_id_2
-    stb_type: 'MAG250', // Replace with Stalker-Portal Stb_type
+    host: 'cooltv4u.xyz', // Replace with your Stalker-Portal host (e.g., 'example.com')
+    mac_address: '00:1A:79:91:A0:DC', // Replace with your MAC address
+    serial_number: 'A35E76284B98E', // Replace with your serial number
+    device_id: '679F5B026E2B2488673FAAF004A9F1DF22771CF4A15AFE12E5072CF479FDA26D', // Replace with your device_id
+    device_id_2: '679F5B026E2B2488673FAAF004A9F1DF22771CF4A15AFE12E5072CF479FDA26D', // Replace with your device_id_2
+    stb_type: 'MAG270', // Replace with Stalker-Portal Stb_type
     api_signature: '263', // No need to change
 };
 
