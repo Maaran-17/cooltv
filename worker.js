@@ -10,7 +10,7 @@
 
 // ============ ⚙ CONFIGURATION ============
 const config = {
-    host: 'cooltv4u.xyz', // Replace with your Stalker-Portal host (e.g., 'example.com')
+    host: 'dhoom4u.me', // Replace with your Stalker-Portal host (e.g., 'example.com')
     mac_address: '00:1A:79:91:A0:DC', // Replace with your MAC address
     serial_number: 'A35E76284B98E', // Replace with your serial number
     device_id: '679F5B026E2B2488673FAAF004A9F1DF22771CF4A15AFE12E5072CF479FDA26D', // Replace with your device_id
